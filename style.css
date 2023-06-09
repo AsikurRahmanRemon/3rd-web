@@ -1,0 +1,22 @@
+h1{
+    font-size: 55px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+.org{
+    color: orange;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+img{
+    height: 500px;
+    width: ;
+    padding-left: 150px;
+    margin: 50px;
+}
