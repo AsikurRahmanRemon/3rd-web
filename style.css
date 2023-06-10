@@ -42,6 +42,9 @@ p{
 .second-half{
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
+    background-position: right;
+    height: 509px;
+    margin: 500px 0px 0px 0px;
 }
 .ftt{
     width: 40%;
@@ -50,5 +53,8 @@ p{
     padding: 2%;
 }
 .s-img{
-    padding: 10px;
+    margin: 150px 0px 0px 0px;
+}
+.second-half{
+
 }
