@@ -78,6 +78,7 @@ p{
     float: left;
     margin-left: 5%;
     margin-bottom: 0%;
+    margin-left: 4%;
     padding-left: 2%;
     box-shadow: 10px 10px 40px gray;
     padding: 20px;
@@ -91,4 +92,20 @@ p{
     background-repeat: no-repeat;
     background-position: left;
     height: 600px;
+    background-color: white;
+}
+#Stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #ffa07a, #ff6347);
+    border-image-slice: 1;
+}
+#Baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    color: dimgray;
+    margin-bottom: 15px;
 }
