@@ -14,6 +14,7 @@ body{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+    
 }
 img{
     height: 500px;
@@ -56,5 +57,38 @@ p{
     margin: 150px 0px 0px 0px;
 }
 .second-half{
-
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 509px;
+    margin: 500px 0px 0px 0px
+}
+.ft{
+    width: 40%;
+    float: right;
+    margin-right: 150px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+    border-radius: 7px;
+    height: 60%;
+    margin-bottom: 0px;
+}
+.ex{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-bottom: 0%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+    border-radius: 7px;
+    height: 60%;
+}
+.exp{
+    margin-top: 250px;
+    margin-bottom: 100px;
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 600px;
 }
